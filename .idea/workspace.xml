@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a69c9e5-8cb4-45a5-ba54-17129c6e8fc0" name="Changes" comment="Plotly setup 1">
-      <change afterPath="$PROJECT_DIR$/df_to_sankez.py" afterDir="false" />
+    <list default="true" id="6a69c9e5-8cb4-45a5-ba54-17129c6e8fc0" name="Changes" comment="Extract from venv">
+      <change beforePath="$PROJECT_DIR$/temp-plot.html" beforeDir="false" afterPath="$PROJECT_DIR$/temp-plot.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.activate_this.executor": "Run",
+    "Python.df_to_sankey.executor": "Run",
     "Python.df_to_sankez.executor": "Run",
     "Python.first.executor": "Run",
     "Python.first.py.executor": "Run",
@@ -56,6 +57,7 @@
       <recent name="C:\Users\scontractor\PycharmProjects\automation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\scontractor\PycharmProjects\automation\archived" />
       <recent name="C:\Users\scontractor\PycharmProjects\automation" />
       <recent name="C:\Users\Shiv.Contractor\Documents\GitHub\automation" />
     </key>
@@ -276,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705180720833</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Extract from venv">
+      <option name="closed" value="true" />
+      <created>1705181161876</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705181161876</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +303,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Plotly setup" />
     <MESSAGE value="Plotly setup 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Plotly setup 1" />
+    <MESSAGE value="Extract from venv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extract from venv" />
   </component>
 </project>
